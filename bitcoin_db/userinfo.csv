@@ -1,0 +1,6 @@
+"id";"age";"gender";"eduBackground";"degree";"email";"password";"group_num"
+1;41;"male";".";".";"first_email@naver.com";"00";1
+2;17;"male";".";".";"second_email@naver.com";"00";1
+3;41;"male";".";".";"third_email@naver.com";"00";1
+4;81;"male";".";".";"fourth_email@naver.com";"00";1
+5;0;"";"";"";"fifth_email@naver.com";"00";2
